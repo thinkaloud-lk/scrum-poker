@@ -5,7 +5,7 @@
     "start": "yarn server & yarn watch"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "mongoose": "^6.0.12",
     "socket.io": "^4.3.2"
   },
